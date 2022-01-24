@@ -1,3 +1,2 @@
-# Ivanova_qa
-Мне кажется, дело было в ковычках. КОторые при клонировании я не ставил или еще в чем то. Поехали дальшше)
-если сейчас все получится то тебе придется опять все удалить и самой сделать, но думаб ты справишься 
+# Ivanova_qa https://docs.google.com/spreadsheets/d/14Hdh7g5-G2oThC8mTSMJ4SzEJFdAEimwzV22b98KNF8/edit?usp=sharing
+# Ivanova_qa https://docs.google.com/spreadsheets/d/1Ui7TqNud58D2HMM7-s8GGekqCq2Wr33LprZebKtaPIs/edit?usp=sharing
